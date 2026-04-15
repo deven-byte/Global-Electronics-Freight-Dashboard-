@@ -18,7 +18,7 @@ Analyzed sales data using Excel to identify trends, performance metrics, and bus
 - Microsoft Excel
 
 ## 📸 Dashboard Preview
-![Dashboard]([dashboard.png](https://github.com/deven-byte/Global-Electronics-Freight-Dashboard-/blob/main/Freight%20project/Dashboard/Dashboard.png))
+![Dashboard]([dashboard.png](https://github.com/deven-byte/Global-Electronics-Freight-Dashboard-/blob/main/Freight%20project/Dashboard/Dashboard.png)
 
 
 
